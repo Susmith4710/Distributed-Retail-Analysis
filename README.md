@@ -78,6 +78,6 @@ Feel free to contribute by submitting issues, pull requests, or enhancements!
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or discussions, reach out to [Your Email or Contact Info].
+For questions or discussions, reach out to meesasusmith@gmail.com.
 
 
